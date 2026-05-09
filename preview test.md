@@ -15,6 +15,20 @@ Hi i am learing markdown file.
 I have Learned Heading.
 
 
+This is Sentence </br>
+This is Second Line.
+
+
+## Text Formating
+
+1. Bold => **This is bold**
+2. Italic => _This is italic_
+3. Bold + Italic => ***This is bold and italic***
+4. Strikethrough text => ~~This is Strikethrough~~
+5. Subscript => H<sub>2</sub>O
+6. Superscript => a<sup>2</sup> + b <sup>3</sup>
+7. Highlight => <mark>THis is Highlight </mark>
+
 
 
 ## Links:
